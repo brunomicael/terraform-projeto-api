@@ -1,6 +1,6 @@
-# Projeto Terraform - API REST com Jenkins
+# Infra Terraform - API REST com Jenkins
 
-Este projeto demonstra como provisionar uma infraestrutura completa na AWS usando Terraform, incluindo a configuração de um serviço REST API acessível através de um domínio personalizado, implantado em EC2 com dados armazenados em RDS MySQL.
+Segue os passos para provisionamento de uma infraestrutura completa na AWS usando Terraform, incluindo a configuração de um serviço REST API acessível através de um domínio personalizado, implantado em EC2 com dados armazenados em RDS MySQL.
 
 ## 📋 Visão Geral do Fluxo de Alto Nível
 
